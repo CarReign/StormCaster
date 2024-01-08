@@ -28,8 +28,8 @@ The data is available for download in widely-used GIS data formats. It can be ac
 ## StormCast: A Descriptive and Predictive Analytics App
 ### Members:
 - Yongco, Carren Mae L.
-- Limpin, Louvila C.
 - Reinhart, Logronio F.
+- Limpin, Louvila C.
   
 ## Introduction
 StormCaster is a desktop application that provides users with the ability to upload files and generate both descriptive and predictive analytics. The application is built using ElectronJS for the frontend and Python for the backend. The main features of the application include file uploading and analytics generation.
